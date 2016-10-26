@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ceylon: com.android.support.appcompat-v7/24.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/ceylon-android/repository/com/android/support/appcompat-v7/24.2.1/com.android.support.appcompat-v7-24.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

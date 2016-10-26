@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Ceylon: android/24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/ceylon-android/repository/android/24/android-24.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
